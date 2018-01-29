@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SBT: de.neuland-bfi:jade4j:1.2.5:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/de.neuland-bfi/jade4j/jars/jade4j-1.2.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

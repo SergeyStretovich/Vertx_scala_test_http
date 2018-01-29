@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="vertx_scala_2" external.linked.project.path="$MODULE_DIR$/../.." external.root.project.path="$MODULE_DIR$/../.." external.system.id="SBT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/../../target/scala-2.12/classes" />
+    <output-test url="file://$MODULE_DIR$/../../target/scala-2.12/test-classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../..">
+      <sourceFolder url="file://$MODULE_DIR$/../../src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/main/scala" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/main/scala-2.12" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/test/scala" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/test/scala-2.12" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../target/scala-2.12/src_managed/main" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../target/scala-2.12/src_managed/test" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../target/scala-2.12/resource_managed/main" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../target/scala-2.12/resource_managed/test" type="java-test-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="SBT: com.101tec:zkclient:0.10:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.thoughtworks.paranamer:paranamer:2.8:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.xerial.snappy:snappy-java:1.1.2.6:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.unbescape:unbescape:1.1.3.RELEASE:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.thymeleaf:thymeleaf:3.0.0.RELEASE:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.slf4j:slf4j-log4j12:1.7.21:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.slf4j:slf4j-api:1.7.21:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.scala-lang.modules:scala-xml_2.12:1.0.6:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.scala-lang.modules:scala-parser-combinators_2.12:1.0.4:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.scala-lang:scala-reflect:2.12.4:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.scala-lang:scala-library:2.12.4:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.scala-lang:scala-compiler:2.12.4:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.pegdown:pegdown:1.6.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.parboiled:parboiled-java:1.1.7:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.parboiled:parboiled-core:1.1.7:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.ow2.asm:asm-util:5.0.3:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.ow2.asm:asm-tree:5.0.3:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.ow2.asm:asm-analysis:5.0.3:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.ow2.asm:asm:5.0.3:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.mvel:mvel2:2.3.1.Final:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.mozilla:rhino:1.7R4:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.javassist:javassist:3.21.0-GA:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.hdrhistogram:HdrHistogram:2.1.9:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.freemarker:freemarker:2.3.23:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.attoparser:attoparser:2.0.0.RELEASE:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.apache.zookeeper:zookeeper:3.4.9:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.apache.kafka:kafka_2.12:0.10.2.1:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.apache.kafka:kafka-clients:0.10.2.1:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.apache.commons:commons-lang3:3.4:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.apache.commons:commons-jexl:2.1.1:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.antlr:antlr4-runtime:4.5.1-1:jar" level="project" />
+    <orderEntry type="library" name="SBT: ognl:ognl:3.1.3:jar" level="project" />
+    <orderEntry type="library" name="SBT: net.sf.jopt-simple:jopt-simple:5.0.3:jar" level="project" />
+    <orderEntry type="library" name="SBT: net.jpountz.lz4:lz4:1.3.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: log4j:log4j:1.2.16:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.vertx:vertx-web-templ-thymeleaf-scala_2.12:3.5.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.vertx:vertx-web-templ-thymeleaf:3.5.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.vertx:vertx-web-templ-pebble-scala_2.12:3.5.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.vertx:vertx-web-templ-pebble:3.5.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.vertx:vertx-web-templ-mvel-scala_2.12:3.5.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.vertx:vertx-web-templ-mvel:3.5.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.vertx:vertx-web-templ-jade-scala_2.12:3.5.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.vertx:vertx-web-templ-jade:3.5.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.vertx:vertx-web-templ-handlebars-scala_2.12:3.5.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.vertx:vertx-web-templ-handlebars:3.5.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.vertx:vertx-web-templ-freemarker-scala_2.12:3.5.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.vertx:vertx-web-templ-freemarker:3.5.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.vertx:vertx-web-scala_2.12:3.5.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.vertx:vertx-web-common-scala_2.12:3.5.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.vertx:vertx-web-common:3.5.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.vertx:vertx-web-client-scala_2.12:3.5.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.vertx:vertx-web-client:3.5.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.vertx:vertx-web:3.5.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.vertx:vertx-tcp-eventbus-bridge-scala_2.12:3.5.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.vertx:vertx-tcp-eventbus-bridge:3.5.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.vertx:vertx-sockjs-service-proxy-scala_2.12:3.5.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.vertx:vertx-sockjs-service-proxy:3.5.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.vertx:vertx-service-proxy:3.5.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.vertx:vertx-service-discovery-scala_2.12:3.5.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.vertx:vertx-service-discovery:3.5.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.vertx:vertx-lang-scala_2.12:3.5.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.vertx:vertx-lang-scala-on-the-fly_2.12:3.5.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.vertx:vertx-kafka-client-scala_2.12:3.5.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.vertx:vertx-kafka-client:3.5.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.vertx:vertx-hazelcast:3.5.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.vertx:vertx-core:3.5.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.vertx:vertx-config-scala_2.12:3.5.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.vertx:vertx-config:3.5.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.vertx:vertx-codegen:3.5.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.vertx:vertx-circuit-breaker-scala_2.12:3.5.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.vertx:vertx-circuit-breaker:3.5.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.vertx:vertx-bridge-common-scala_2.12:3.5.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.vertx:vertx-bridge-common:3.5.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.vertx:vertx-auth-common:3.5.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.netty:netty-transport:4.1.15.Final:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.netty:netty-resolver-dns:4.1.15.Final:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.netty:netty-resolver:4.1.15.Final:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.netty:netty-handler-proxy:4.1.15.Final:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.netty:netty-handler:4.1.15.Final:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.netty:netty-common:4.1.15.Final:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.netty:netty-codec-socks:4.1.15.Final:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.netty:netty-codec-http2:4.1.15.Final:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.netty:netty-codec-http:4.1.15.Final:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.netty:netty-codec-dns:4.1.15.Final:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.netty:netty-codec:4.1.15.Final:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.netty:netty-buffer:4.1.15.Final:jar" level="project" />
+    <orderEntry type="library" name="SBT: de.neuland-bfi:jade4j:1.2.5:jar" level="project" />
+    <orderEntry type="library" name="SBT: commons-logging:commons-logging:1.1.1:jar" level="project" />
+    <orderEntry type="library" name="SBT: commons-io:commons-io:2.4:jar" level="project" />
+    <orderEntry type="library" name="SBT: commons-collections:commons-collections:3.2.2:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.yammer.metrics:metrics-core:2.2.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.mitchellbosecke:pebble:2.3.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.hazelcast:hazelcast:3.8.2:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.googlecode.concurrentlinkedhashmap:concurrentlinkedhashmap-lru:1.4.2:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.google.guava:guava:19.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.github.jknack:handlebars:4.0.3:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.coverity.security:coverity-escapers:1.1:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.fasterxml.jackson.core:jackson-annotations:2.9.2:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.fasterxml.jackson.core:jackson-core:2.9.2:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.fasterxml.jackson.core:jackson-databind:2.9.4:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.fasterxml.jackson.module:jackson-module-paranamer:2.9.2:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.fasterxml.jackson.module:jackson-module-scala_2.12:2.9.2:jar" level="project" />
+  </component>
+</module>
